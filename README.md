@@ -1,2 +1,11 @@
 # bello_cloud_student
-my first project
+
+chat Bot for Ai searches
+
+git commands:
+
+git clone
+git add .
+git push origin main
+git commit -m ""
+
