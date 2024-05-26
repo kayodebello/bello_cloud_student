@@ -18,3 +18,6 @@ create additional branches
 createPR
 Protect your branch
 Create a merge
+
+Using winget tool
+Install winget tool if you don't already have it, then type this command in command prompt or Powershell.
