@@ -1,11 +1,7 @@
 # bello_cloud_student
 
-chat Bot for Ai searches
-
-git commands:
+chat bot for AI searches
 
 git clone
-git add .
 git push origin main
-git commit -m ""
-
+git commit
